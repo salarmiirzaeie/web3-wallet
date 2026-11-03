@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "starter-kit-expo",
-    "slug": "starter-kit-expo",
+    "name": "Web3 Wallet",
+    "slug": "web3-wallet",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "starterkitexpo",
+    "scheme": "web3wallet",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
